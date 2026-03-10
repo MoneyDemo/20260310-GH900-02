@@ -1,15 +1,17 @@
-# SimpleWeb 45d84as6
-BBBB
+# SimpleWeb Demo0310
+SimpleWeb Demo0310 is a sample ASP.NET Core web application used for demonstration purposes.
 
 [![Build Status](https://github.com/MoneyYu/SimpleWeb/actions/workflows/01.build.yml/badge.svg)](https://github.com/MoneyYu/SimpleWeb/actions/workflows/01.build.yml)
 
 A demo ASP.NET Core 10.0 web application showcasing modern DevOps practices, cloud deployment strategies, and Infrastructure as Code (IaC) patterns.
 
+Test0310
+
 > 📖 [繁體中文版本 (Traditional Chinese Version)](README_zh-TW.md)
 
 ## Table of Contents
 
-- [SimpleWeb 45d84as6](#simpleweb-45d84as6)
+- [SimpleWeb Demo0310](#simpleweb-demo0310)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
