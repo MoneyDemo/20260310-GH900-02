@@ -5,6 +5,8 @@ SimpleWeb Demo0310 is a sample ASP.NET Core web application used for demonstrati
 
 A demo ASP.NET Core 10.0 web application showcasing modern DevOps practices, cloud deployment strategies, and Infrastructure as Code (IaC) patterns.
 
+Test0310
+
 > 📖 [繁體中文版本 (Traditional Chinese Version)](README_zh-TW.md)
 
 ## Table of Contents
