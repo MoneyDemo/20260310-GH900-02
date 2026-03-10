@@ -1,5 +1,5 @@
 # SimpleWeb Demo0310
-This is a wbe for demo call: smple web
+SimpleWeb Demo0310 is a sample ASP.NET Core web application used for demonstration purposes.
 
 [![Build Status](https://github.com/MoneyYu/SimpleWeb/actions/workflows/01.build.yml/badge.svg)](https://github.com/MoneyYu/SimpleWeb/actions/workflows/01.build.yml)
 
